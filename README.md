@@ -1,8 +1,8 @@
 # BPNet
 
-BPNet: B ́ezier Primitive Segmentation on 3D Point Clouds  [IJCAI-23] 
+BPNet: Bézier Primitive Segmentation on 3D Point Clouds  [IJCAI-23](https://ijcai-23.org/) 
 
-[Official Paper](https://ijcai-23.org/); [Extended paper](https://arxiv.org/)
+[Extended paper](https://arxiv.org/)
 
-<h3>Data</h3>
-Please download the pre-processed data from here: (https://drive.google.com/file/d/1I-5w4CTsYnOrFm1TMMrc62OWtcBq3vAm/view?usp=sharing).
+<h3>Data</h3
+Please download the pre-processed data from [here](https://drive.google.com/)
