@@ -15,7 +15,7 @@ configure your training settings in `options.py`, and then:
 
 ```python train.py```
 
-### Training
+### Testing
 configure your training settings in `options.py`, and then:
 
 ```python test.py```
