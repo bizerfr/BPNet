@@ -12,10 +12,12 @@ unzip the dataset, and modify the root path in the `options.py`
 
 ### Training
 configure your training settings in `options.py`, and then:
+
 ```python train.py```
 
 ### Training
 configure your training settings in `options.py`, and then:
+
 ```python test.py```
 
 
