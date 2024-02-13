@@ -10,7 +10,7 @@ BPNet: Bézier Primitive Segmentation on 3D Point Clouds  ([IJCAI-23](https://ww
 ### Data Preparation
 Please download the pre-processed [ABC dataset](https://drive.google.com/file/d/15u9hpQqurYhzNIZrnCVejCoAYXmr_U8-/view?usp=sharing).
 
-unzip the dataset, and modify the root path in the `options.py`
+unzip the dataset and put it in the data folder, or modify the data root path in the `options.py`
 
 ### Training
 configure your training settings in `options.py`, and then:
