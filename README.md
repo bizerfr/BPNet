@@ -2,8 +2,6 @@
 
 BPNet: Bézier Primitive Segmentation on 3D Point Clouds  ([IJCAI-23](https://www.ijcai.org/proceedings/2023/84) & [TCSVT-24](https://ieeexplore.ieee.org/document/10789135)). 
 
-The journal version is also available [here](https://drive.google.com/file/d/1Yv5qtdb4o9ka1wXNt5CgKwxuDAFVfmOj/view?usp=sharing).
-
 <div align="center">
   <img width="100%" alt="BPNet Pipeline" src="teaser/pipeline.png">
 </div>
